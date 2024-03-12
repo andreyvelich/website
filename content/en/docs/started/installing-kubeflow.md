@@ -123,6 +123,20 @@ The following table lists distributions which are <em>maintained</em> by their r
       </tr>
       <tr>
         <td>
+          Treebeardtech / kubeflow-helm
+        </td>
+        <td>
+          {{% treebeardtech/latest-version %}}
+        </td>
+        <td>
+          All Certified Kubernetes Distributions
+        </td>
+        <td>
+          <a href="https://github.com/treebeardtech/kubeflow-helm">Website</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
           Microsoft Azure
         </td>
         <td>
