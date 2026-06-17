@@ -25,7 +25,7 @@ weight = 104
           <a href="https://www.youtube.com/watch?v=L6wG_mpRWe8">Kubeflow 1.0 Release Community Webinar</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-10">Kubeflow 1.0 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-10">Kubeflow 1.0 Features</a>
       </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ weight = 104
           <a href="https://www.youtube.com/watch?v=L6wG_mpRWe8">Kubeflow 1.0 Release Community Webinar</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-10">Kubeflow 1.0 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-10">Kubeflow 1.0 Features</a>
       </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ weight = 104
           <a href="https://www.youtube.com/watch?v=L6wG_mpRWe8">Kubeflow 1.0 Release Community Webinar</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-10">Kubeflow 1.0 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-10">Kubeflow 1.0 Features</a>
       </td>
     </tr>
     <tr>

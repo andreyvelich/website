@@ -25,7 +25,7 @@ weight = 97
           <a href="https://www.youtube.com/watch?v=CUQT-YccpR8">Kubeflow 1.7 Release Overview</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-17-release-planned-march-2023">Kubeflow 1.7 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-17-release-delivered-march-2023">Kubeflow 1.7 Features</a>
       </td>
     </tr>
     <tr>

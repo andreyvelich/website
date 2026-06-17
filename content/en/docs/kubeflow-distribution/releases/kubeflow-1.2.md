@@ -22,7 +22,7 @@ weight = 102
           <a href="https://blog.kubeflow.org/release/official/2020/11/18/kubeflow-1.2-blog-post.html">Kubeflow 1.2 Release Announcement</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-12-features-release-date-november-2020">Kubeflow 1.2 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-12-features-release-date-november-2020">Kubeflow 1.2 Features</a>
       </td>
     </tr>
     <tr>

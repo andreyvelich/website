@@ -25,7 +25,7 @@ weight = 99
           <a href="https://www.youtube.com/watch?v=QNNCM9Kq3Q0">Kubeflow 1.5 Release Overview</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-15-release-delivered-march-2022">Kubeflow 1.5 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-15-release-delivered-march-2022">Kubeflow 1.5 Features</a>
       </td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@ This information is only for the manifests found in the <a href="https://github.
           <a href="https://www.youtube.com/watch?v=QNNCM9Kq3Q0">Kubeflow 1.5 Release Overview</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-15-release-delivered-march-2022">Kubeflow 1.5 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-15-release-delivered-march-2022">Kubeflow 1.5 Features</a>
       </td>
     </tr>
     <tr>

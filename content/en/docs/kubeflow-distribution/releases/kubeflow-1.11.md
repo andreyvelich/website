@@ -25,7 +25,7 @@ weight = 90
           To be published
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-111-release-planned-for-release-december-2025">Kubeflow 1.11 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-111-release-planned-for-release-december-2025">Kubeflow 1.11 Features</a>
       </td>
     </tr>
     <tr>

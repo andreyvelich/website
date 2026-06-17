@@ -25,7 +25,7 @@ weight = 106
           <a href="https://www.youtube.com/watch?v=fiFk5FB7il8">Kubeflow 0.6 Release Feature Review</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-06">Kubeflow 0.6 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-06">Kubeflow 0.6 Features</a>
       </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ weight = 106
           <a href="https://www.youtube.com/watch?v=fiFk5FB7il8">Kubeflow 0.6 Release Feature Review</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-06">Kubeflow 0.6 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-06">Kubeflow 0.6 Features</a>
       </td>
     </tr>
     <tr>

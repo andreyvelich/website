@@ -22,7 +22,7 @@ weight = 105
           <a href="https://medium.com/kubeflow/kubeflow-v0-7-delivers-beta-functionality-in-the-leadup-to-v1-0-1e63036c07b8">Kubeflow 0.7 Release Announcement</a>
         <br>
         <b>Roadmap:</b>
-          <a href="https://github.com/kubeflow/kubeflow/blob/master/ROADMAP.md#kubeflow-07">Kubeflow 0.7 Features</a>
+          <a href="https://github.com/kubeflow/community-distribution/blob/master/ROADMAP.md#kubeflow-community-distribution-07">Kubeflow 0.7 Features</a>
       </td>
     </tr>
     <tr>
